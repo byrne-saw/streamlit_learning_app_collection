@@ -1,0 +1,19 @@
+[theme]
+base = "custom"
+primaryColor = "#FC8500"
+backgroundColor = "#9A52DA"
+secondaryBackgroundColor = "#007E10"
+textColor = "#00AFF4"
+font = "sans-serif"
+
+[theme.colors]
+primary = "#FC8500"
+background = "#9A52DA"
+secondaryBackground = "#007E10"
+text = "#00AFF4"
+icon = "#FFB701"
+error = "#EC4899"
+success = "#34D399"
+info = "#4F46E5"
+warning = "#EF4444"
+link = "#78350F"
